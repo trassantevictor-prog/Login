@@ -2,7 +2,6 @@
 
 Projeto de estudo feito com **HTML e CSS**: uma tela de login moderna, com efeito de vidro (glassmorphism) sobre um fundo em degradê com estrelas.
 
-**Demonstração:** (cole aqui o link do GitHub Pages depois de ativar)
 
 ## Tecnologias
 
